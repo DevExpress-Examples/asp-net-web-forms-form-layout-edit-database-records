@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ImageHelper.cs](./CS/WebSite/App_Code/ImageHelper.cs)
+* [Default.aspx](./CS/WebSite/Default.aspx)
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs)
+<!-- default file list end -->
 # How to edit fields in a data source using the ASPxFormLayout control
 
 
