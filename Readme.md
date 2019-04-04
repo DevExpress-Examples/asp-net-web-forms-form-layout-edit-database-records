@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [ImageHelper.cs](./CS/App_Code/ImageHelper.cs) (VB: [ImageHelper.vb](./VB/App_Code/ImageHelper.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to edit fields in a data source using the ASPxFormLayout control
