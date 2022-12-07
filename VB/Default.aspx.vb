@@ -1,6 +1,4 @@
-﻿Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxFormLayout
-Imports DevExpress.Web.ASPxPager
+﻿Imports DevExpress.Web
 Imports System
 Imports System.Collections.Generic
 Imports System.Data
@@ -15,7 +13,7 @@ Imports System.Web.UI.WebControls
 Partial Public Class _Default
     Inherits System.Web.UI.Page
 
-    Protected Sub ASPxFormLayout4_LayoutItemDataBound(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxFormLayout.LayoutItemDataBoundEventArgs)
+    Protected Sub ASPxFormLayout4_LayoutItemDataBound(ByVal sender As Object, ByVal e As DevExpress.Web.LayoutItemDataBoundEventArgs)
         Dim c As Control = e.LayoutItem.GetNestedControl()
         If TypeOf c Is ASPxBinaryImage Then
             Dim img As ASPxBinaryImage = CType(c, ASPxBinaryImage)

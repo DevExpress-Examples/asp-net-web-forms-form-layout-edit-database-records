@@ -1,6 +1,4 @@
-﻿using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxFormLayout;
-using DevExpress.Web.ASPxPager;
+﻿using DevExpress.Web;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -15,7 +13,7 @@ using System.Web.UI.WebControls;
 public partial class _Default : System.Web.UI.Page
 {
     
-    protected void ASPxFormLayout4_LayoutItemDataBound(object sender, DevExpress.Web.ASPxFormLayout.LayoutItemDataBoundEventArgs e)
+    protected void ASPxFormLayout4_LayoutItemDataBound(object sender, DevExpress.Web.LayoutItemDataBoundEventArgs e)
     {
         Control c = e.LayoutItem.GetNestedControl();
         if (c is ASPxBinaryImage)
