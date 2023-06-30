@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4808)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Form Layout for ASP.NET Web Forms - How to edit fields in a data source
+# Form Layout for ASP.NET Web Forms - How to edit database records
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e4808/)**
 <!-- run online end -->
