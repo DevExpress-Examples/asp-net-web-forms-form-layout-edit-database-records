@@ -10,14 +10,12 @@
 
 This example demonstrates how to edit database records in the [ASPxFormLayout](https://docs.devexpress.com/AspNet/14384/components/site-navigation-and-layout/form-layout) control's items.
 
-![Edit Field Values in Form Layout](image.png)
-
-In the example, the Form Layout control is bound to a data sorce record and contains multiple nested [DevExpress editors](https://docs.devexpress.com/AspNet/7897/components/data-editors). The editors allow you to edit the record's field values. Note that the code example dynamically [converts](https://github.com/DevExpress-Examples/how-to-edit-fields-in-a-data-source-using-the-aspxformlayout-control-e4808/blob/13.2.13%2B/CS/Default.aspx.cs#L24) the record's picture from the Ole Object data type to a byte array and then populates the [ASPxBinaryImage](https://docs.devexpress.com/AspNet/11646/components/data-editors/binaryimage) editor.
-
-Modify editor values and click the **Update** button to save changes. The button calls the [SqlDataSource.Update](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource.update?view=netframework-4.8.1) method and updates the edited record. To navigate between records, use the [ASPxPager](https://docs.devexpress.com/AspNet/8288/components/data-and-image-navigation/pager?p=netframework) control.
-
 > **Note**  
 > In this example, the Form Layout control is bound to the Northwind sample database. Refer to the following topic for more information on how to load this database: [Get the sample databases for ADO.NET code samples](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases).
+
+![Edit Field Values in Form Layout](image.png)
+
+In the example, the Form Layout control is bound to a data sorce record and contains multiple nested [DevExpress editors](https://docs.devexpress.com/AspNet/7897/components/data-editors). These editors allow you to edit the record's field values. Click the **Update** button to call the [SqlDataSource.Update](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource.update?view=netframework-4.8.1) method and save changes to the edited record. To navigate between records, use the [ASPxPager](https://docs.devexpress.com/AspNet/8288/components/data-and-image-navigation/pager?p=netframework) control.
 
 ## Files to Review
 
