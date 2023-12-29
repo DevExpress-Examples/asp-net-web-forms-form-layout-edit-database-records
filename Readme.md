@@ -3,9 +3,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Form Layout for ASP.NET Web Forms - How to edit database records
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4808/)**
-<!-- run online end -->
 
 This example demonstrates how to edit database records in the [ASPxFormLayout](https://docs.devexpress.com/AspNet/14384/components/site-navigation-and-layout/form-layout) control's items.
 
