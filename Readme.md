@@ -24,7 +24,7 @@ In the example, the Form Layout control is bound to a data sorce record and cont
 
 * [Bind Form Layout to Data](https://docs.devexpress.com/AspNet/15633/components/site-navigation-and-layout/form-layout/concepts/binding-to-data)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-form-layout-edit-database-records&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-form-layout-edit-database-records&~~~was_helpful=no)
 
